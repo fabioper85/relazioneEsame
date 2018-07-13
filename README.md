@@ -1,9 +1,7 @@
-# Perretta Fabio - Relazione Stage
+<h1>Perretta Fabio - Relazione Stage</h1>
 
-#### Corso di Formazione TECNICO SVILUPPO SOFTWARE 1000 ORE
+<h3>Corso di Formazione TECNICO SVILUPPO SOFTWARE 1000 ORE</h3>
 
-presso [Engim Piemonte](http://engim.org) - anno 2017/2018
+presso <a hfref="http://engim.org" target="_blank">Engim Piemonte</a> - anno 2017/2018
 
-Azienda ospitante: [Consoft Sistemi S.p.A.](https://www.consoft.it/index.php/it/)
-
-<a href="http://www.google.it" targert="_blank">Link</a>
+Azienda ospitante: <a href="https://www.consoft.it/index.php/it/" target="_blank">Consoft Sistemi S.p.A.</a>
