@@ -1,7 +1,7 @@
 <h1>Perretta Fabio - Relazione Stage</h1>
 
 <p>Corso di Formazione</p>
-<h3>TECNICO SVILUPPO SOFTWARE 1000 ORE</h3>
+<p><strong>TECNICO SVILUPPO SOFTWARE 1000 ORE</strong></p>
 
 presso <a href="http://engim.org" target="_blank">Engim Piemonte</a> - anno 2017/2018
 
